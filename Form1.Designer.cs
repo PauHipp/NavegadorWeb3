@@ -76,7 +76,7 @@
             this.nAVEGARToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1277, 33);
+            this.menuStrip1.Size = new System.Drawing.Size(1277, 36);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -89,7 +89,7 @@
             this.haciaAtrasToolStripMenuItem,
             this.salirToolStripMenuItem});
             this.nAVEGARToolStripMenuItem.Name = "nAVEGARToolStripMenuItem";
-            this.nAVEGARToolStripMenuItem.Size = new System.Drawing.Size(107, 29);
+            this.nAVEGARToolStripMenuItem.Size = new System.Drawing.Size(107, 32);
             this.nAVEGARToolStripMenuItem.Text = "NAVEGAR";
             // 
             // inicioToolStripMenuItem
